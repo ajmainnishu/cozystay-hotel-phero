@@ -1,7 +1,10 @@
+import Button from 'react-bootstrap/Button';
+import Form from 'react-bootstrap/Form';
+
 const Login = () => {
     return (
-        <div>
-            <h2>Login</h2>
+        <div className='w-50 border rounded mx-auto my-5'>
+            
         </div>
     );
 };
