@@ -1,7 +1,9 @@
+import LuxuryFurnished from "./LuxuryFurnished/LuxuryFurnished";
+
 const Home = () => {
     return (
         <div>
-            <h2>Home</h2>
+            <LuxuryFurnished></LuxuryFurnished>
         </div>
     );
 };
